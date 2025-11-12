@@ -1,0 +1,1 @@
+// Schedule Interview DTO

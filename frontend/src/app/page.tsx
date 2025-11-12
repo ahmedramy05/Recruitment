@@ -1,0 +1,1 @@
+// Landing page for Next.js app

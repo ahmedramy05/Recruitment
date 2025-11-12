@@ -1,0 +1,1 @@
+// Accept Offer DTO

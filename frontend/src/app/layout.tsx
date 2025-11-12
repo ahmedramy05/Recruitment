@@ -1,0 +1,1 @@
+// Root layout for Next.js app
